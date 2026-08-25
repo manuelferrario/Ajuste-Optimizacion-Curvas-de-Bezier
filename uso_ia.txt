@@ -1,0 +1,7 @@
+Para el TP usamos la IA para:
+- Debugeo de codigo.
+- Sintaxis de python.
+- Teniamos un error con el combinatorio de numpy, terminamos usando la libreria math con comb.
+- Profundizar en conectar los temas con la materia.
+- Representar y entender la derivada con epsilon en el ejercicio 12.
+- Representar y entender la perturbación vertical del ejercicio 11.
